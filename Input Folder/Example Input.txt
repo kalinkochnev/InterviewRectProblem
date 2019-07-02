@@ -1,0 +1,5 @@
+// **Do not include these comments in the file**
+// Each rectangle is on a separate line, there can be a max of 2 rectangles inputted
+// Make sure that each keyword is in the exact order!!!!
+X1=0,Y1=0, LENGTH=50, HEIGHT=50
+X1=100, Y1=100, LENGTH=50, HEIGHT=150

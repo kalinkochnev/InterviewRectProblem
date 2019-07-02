@@ -22,8 +22,8 @@
     ## OPTION 1 (recommended and default)
         In the main method of RectangleProblem.py make sure the OVERRIDE variable is set equal to True
             1. Change the parameters of the two Rectangle classes to whatever you would like
-            2. Run the program in the command line (not including quotes) "pytho
-            3. It will output in the console 
+            2. Run the program in the command line
+            3. It will output to the console once all the appropriate lines have been commented out
             
     ## OPTION 2 (finniky, most likely will not work)
         There is a folder named Input Folder and in there is where you can place create a text file to test you specific case. 
@@ -33,3 +33,6 @@
             5. Each keyword must be seperated by a comma
             4. the X1 and Y1 value for each rectangle represents the top left corner of the rectangle
             5. The LENGTH and WIDTH keyword represent the distance from (X1, Y1)
+
+# Other notes:
+    -   Lines meant to not be run are commented out, uncomment at your own risk!!!
